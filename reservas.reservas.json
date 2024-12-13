@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "675be16646916e9f289b8d43"
+  },
+  "cliente": {
+    "nombre": "aaaaa",
+    "apellido": "Rodriguez",
+    "telefono": "12345678",
+    "correo": "alex@gmail.com"
+  },
+  "fechaInicio": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "fechaFin": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "__v": 0
+}]
